@@ -31,7 +31,7 @@ Download PDF from the below table. ⬇️
 
 ## Get in Touch
 
-I'm always open to discussions, collaborations, and answering any questions you may have. Feel free to reach out to me at [Email](mailto:ishavdocsquery@example.com)  to discuss tools, software, or any other tech-related topics.
+I'm always open to discussions, collaborations, and answering any questions you may have. Feel free to reach out to me at [Email](mailto:ishavdocsquery@gmail.com)  to discuss tools, software, or any other tech-related topics.
 
 Thank you 🥰 for visiting my documentation, and I hope you find it valuable and informative as you explore the tools and software I've documented.
 
