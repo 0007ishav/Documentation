@@ -1,3 +1,5 @@
+If you're eager to learn jump directy to documentation ➡️
+[Jump to Tools and Software Documentation](#tools-and-software-documentation)
 # About Me
 
 Hello, I'm Ishav, and I've created this documentation to provide insights into the tools and software I've utilized in my projects, along with detailed instructions on how to install them. I'm passionate about technology and always eager to explore new solutions that enhance productivity and make complex tasks more manageable.
