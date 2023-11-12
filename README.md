@@ -1,4 +1,4 @@
-If you're eager to learn jump directy to documentation ➡️
+If you're eager to learn then jump directy to the documentation ➡️
 [Jump to Tools and Software Documentation](#tools-and-software-documentation)
 # About Me
 
