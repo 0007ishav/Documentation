@@ -20,11 +20,11 @@ Creating this documentation serves several purposes:
 
 # Tools and Software Documentation
 
-**How to Install:** <br>
+**How to get documentation:** <br>
 To know how to install the specific Tools & Software , follow these steps... <br>
 Download PDF from the below table. ⬇️
 
-## 1.3. Documentation PDFs
+## Documentation PDFs
 
 | Tool Name  | Documentation PDF |
 | ---------  | ----------------- |
