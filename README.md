@@ -30,6 +30,7 @@ Download PDF from the below table. ⬇️
 | ---------  | ----------------- |
 | Docker Installation + Kubernetes| [Download PDF](https://drive.google.com/file/d/1A0weGZdqXYhmdv3okfYBnbUESnsira7W/view?usp=sharing) |
 | Docker Working    | [Download PDF](https://drive.google.com/file/d/1CFbNqdkVQL6AkkzMM2f1E3grjTHB31z_/view?usp=sharing) |
+|Git Commands | [Download PDF](https://drive.google.com/file/d/13fUBT57R-vGSgzEBp6SvBUrIG22M6JPr/view?usp=sharing)  |
 
 ## Get in Touch
 
