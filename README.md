@@ -32,6 +32,10 @@ Download PDF from the below table. ⬇️
 | Docker Working    | [Download PDF](https://drive.google.com/file/d/1CFbNqdkVQL6AkkzMM2f1E3grjTHB31z_/view?usp=sharing) |
 |Git Commands | [Download PDF](https://drive.google.com/file/d/13fUBT57R-vGSgzEBp6SvBUrIG22M6JPr/view?usp=sharing)  |
 
+## My Blogs on Hashnode
+
+Explore more insights and articles on various tech topics on my Hashnode blog: [Strnge Blog](https://strngeblogs.hashnode.dev/)
+
 ## Get in Touch
 
 I'm always open to discussions, collaborations, and answering any questions you may have. Feel free to reach out to me at [Email](mailto:ishavdocsquery@gmail.com)  to discuss tools, software, or any other tech-related topics.
